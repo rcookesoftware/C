@@ -1,0 +1,4 @@
+654321B, Lodgement, 100.00, New Balance: 1100.00
+123456A, Lodgement, 100.00, New Balance: 100.00
+123456A, Withdrawal, 200.00, New Balance: -100.00
+123456A, Repayment, 100.00, New Balance: 0.00

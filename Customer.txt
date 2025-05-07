@@ -1,0 +1,2 @@
+123456A, ryan123, pass01, Ryan Cooke, 12 Main Street, Credit, Software Engineer, 123456, 0, 0.00, 2000.00, 745.00, 0.03
+654321B, johns, pass02, John Smith, 23 High Street, Debit, Teacher, 654321, 0, 1100.00, 0.00, 0.00, 0.00
