@@ -1,0 +1,3 @@
+admin, pass01
+manager, pass02
+techie, pass03

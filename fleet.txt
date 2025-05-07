@@ -1,0 +1,2 @@
+MCH102938,John Deere,6155M,2019,110000.00,90000.00,1500.50,2000.00,Sarah O'Connell,sarahoconnell@gmail.com,0871234567,Tractor,Less than 3 times
+MCH2024857,Caterpillar,320D2,2017,150000.00,120000.00,3200.70,4000.00,Tom Briggs,tom.briggs@gmail.com,0877654321,Excavator ,More than 5 times
